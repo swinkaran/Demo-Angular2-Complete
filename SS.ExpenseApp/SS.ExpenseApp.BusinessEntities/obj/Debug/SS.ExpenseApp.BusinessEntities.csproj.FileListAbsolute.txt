@@ -1,0 +1,5 @@
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.BusinessEntities\bin\Debug\SS.ExpenseApp.BusinessEntities.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.BusinessEntities\bin\Debug\SS.ExpenseApp.BusinessEntities.pdb
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.BusinessEntities\obj\Debug\SS.ExpenseApp.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.BusinessEntities\obj\Debug\SS.ExpenseApp.BusinessEntities.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.BusinessEntities\obj\Debug\SS.ExpenseApp.BusinessEntities.pdb

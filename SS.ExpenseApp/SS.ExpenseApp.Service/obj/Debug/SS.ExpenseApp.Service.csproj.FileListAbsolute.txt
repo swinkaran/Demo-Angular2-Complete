@@ -1,0 +1,12 @@
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.Service.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.Service.pdb
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.BusinessEntities.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.Data.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\EntityFramework.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.BusinessEntities.pdb
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.Data.pdb
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\SS.ExpenseApp.Data.dll.config
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\bin\Debug\EntityFramework.xml
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\obj\Debug\SS.ExpenseApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\obj\Debug\SS.ExpenseApp.Service.dll
+C:\Users\srikarans\Documents\GitHub\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Service\obj\Debug\SS.ExpenseApp.Service.pdb

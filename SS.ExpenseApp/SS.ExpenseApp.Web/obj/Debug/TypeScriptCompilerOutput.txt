@@ -1,0 +1,158 @@
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\srikarans\Documents\GitHub\backups\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\employee-list-component.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\app.module.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\Expense\Expense.js.map
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js
+C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Expenses.Demo\SS.ExpenseApp\SS.ExpenseApp.Web\App\main.js.map
